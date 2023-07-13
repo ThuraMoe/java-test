@@ -2,6 +2,7 @@ package com.trm;
 
 import com.trm.registration.*;
 import com.trm.teaching.*;
+import static com.trm.registration.Student.*;
 
 public class PackageTest {
     
@@ -13,5 +14,7 @@ public class PackageTest {
         student.takeCourse(c);
 
         student.sayYourCourse();
+
+        showStudentCount();
     }
 }

@@ -6,4 +6,4 @@ run -> java Class
 ### Package 
 compile -> javac com/trm/foldername/*.java
 
-run -> java com/trm/Class
+run -> java -classpath . com.trm.PackageTest

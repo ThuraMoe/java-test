@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PolymorphicDemo",
+            "request": "launch",
+            "mainClass": "com.test.polymor.PolymorphicDemo",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceTest",
+            "request": "launch",
+            "mainClass": "com.test.interf.InterfaceTest",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CarTest",
+            "request": "launch",
+            "mainClass": "CarTest",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "ConstantTest",
+            "request": "launch",
+            "mainClass": "ConstantTest",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "ContainerTest",
+            "request": "launch",
+            "mainClass": "ContainerTest",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "CounterTest",
+            "request": "launch",
+            "mainClass": "CounterTest",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "DayEnumTest",
+            "request": "launch",
+            "mainClass": "DayEnumTest",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "GenericArrayTest",
+            "request": "launch",
+            "mainClass": "GenericArrayTest",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "LocalVariableTest",
+            "request": "launch",
+            "mainClass": "LocalVariableTest",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "MethodTest",
+            "request": "launch",
+            "mainClass": "MethodTest",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "NumberTest",
+            "request": "launch",
+            "mainClass": "NumberTest",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "PrimitiveTypeCasting",
+            "request": "launch",
+            "mainClass": "PrimitiveTypeCasting",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "SameNameMethod",
+            "request": "launch",
+            "mainClass": "SameNameMethod",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "StatementTest",
+            "request": "launch",
+            "mainClass": "StatementTest",
+            "projectName": "Java Learning_1b6468f"
+        },
+        {
+            "type": "java",
+            "name": "PackageTest",
+            "request": "launch",
+            "mainClass": "com.trm.PackageTest",
+            "projectName": "Java Learning_1b6468f"
+        }
+    ]
+}
